@@ -9,7 +9,7 @@
 
 <img align="right" alt="Developing Something" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently learning **Express,Node.js,React**
+- 🌱 I’m currently learning **DSA,.NET-Core**
 
 - 💬 Ask me about **HTML,CSS,C language,java,javascript,React,Node**
 
