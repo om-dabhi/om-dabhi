@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Om Dabhi</h1>
-<h3 align="center">A CSE Junior who loves exploring new field</h3>
+<h3 align="center">A CSE Student who loves exploring new field</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=om-dabhi&label=Profile%20views&color=0e75b6&style=flat" alt="om-dabhi" /> </p>
 
