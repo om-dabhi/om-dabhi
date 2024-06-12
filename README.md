@@ -9,12 +9,6 @@
   </a> 
 </p>
 
-<p align="center"> 
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a> 
-</p>
-
 <img align="right" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="300">
 
 - 🌱 I’m currently learning **DSA, .NET Core**
